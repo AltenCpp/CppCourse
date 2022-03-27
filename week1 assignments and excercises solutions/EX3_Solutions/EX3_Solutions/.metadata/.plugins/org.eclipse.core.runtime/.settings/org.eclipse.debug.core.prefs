@@ -1,0 +1,5 @@
+//org.eclipse.debug.cppore.PREFERRED_DELEGATES/org.eclipse.cppdt.launch.applicationLaunchType=org.eclipse.cppdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cppdt.cppdi.launch.localCLaunch,run,;
+//org.eclipse.debug.cppore.PREFERRED_DELEGATES/org.eclipse.cppdt.launch.attachLaunchType=org.eclipse.cppdt.dsf.gdb.launch.attachCLaunch,debug,;
+//org.eclipse.debug.cppore.PREFERRED_DELEGATES/org.eclipse.cppdt.launch.postmortemLaunchType=org.eclipse.cppdt.dsf.gdb.launch.cpporeCLaunch,debug,;
+//org.eclipse.debug.cppore.PREFERRED_DELEGATES/org.eclipse.cppdt.launch.remoteApplicationLaunchType=org.eclipse.rse.remotecdt.dsf.debug,debug,;
+eclipse.preferences.version=1

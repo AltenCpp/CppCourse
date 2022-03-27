@@ -1,0 +1,128 @@
+!SESSION 2019-05-04 18:27:19.844 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpppp.product
+Command-line arguments:  -data F:\Embedded systems materials\Diploma\Ass3_Solutions\Ass3_Solutions -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpppp.product
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:40.908
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.arduino.cppore.descriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:40.947
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:41.111
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:41.132
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:41.142
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 18:27:41.144
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-05-04 18:27:42.162
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ahmwd Yasseen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-05-04 19:05:05.495 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpppp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpppp.product
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.440
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.arduino.cppore.descriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.605
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.687
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.823
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.840
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-05-04 19:05:26.946
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-05-04 19:05:28.597
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ahmwd Yasseen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-12 19:09:09.346 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpppp.product
+Command-line arguments:  -data F:\Embedded systems materials\Diploma\C material and excercises\Ass3_Solutions\Ass3_Solutions -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpppp.product
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.329
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.arduino.cppore.descriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.355
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.478
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.534
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.574
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-12 19:09:28.619
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-12 19:09:28.984
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ahmwd Yasseen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-06-29 08:56:19.369 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpppp.product
+Command-line arguments:  -data F:\Embedded systems materials\Diploma\C material and excercises\Ass3_Solutions\Ass3_Solutions -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpppp.product
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:38.806
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.arduino.cppore.descriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:38.999
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:39.096
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:39.249
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:39.309
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.cppore 2 0 2019-06-29 08:56:39.313
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cppdt.debug.cppore.cpporeBuildDescriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-29 08:56:40.308
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ahmwd Yasseen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

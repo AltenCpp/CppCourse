@@ -11,6 +11,7 @@ void useGlobal( void ); /* function prototype */
 
 int x = 1; /* global variable */
 
+
 /* function main begins program execution */
 int main( void )
 {
@@ -20,7 +21,7 @@ int main( void )
 
     {
         /* start new scope */
-        int x = 7; /* local variable to new scope */
+        int static x = 7; /* local variable to new scope */
         printf( "local x in inner scope of main is %d\n", x );
     }
 
