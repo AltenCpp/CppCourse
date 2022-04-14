@@ -21,9 +21,9 @@ int main()
 {
 	vector<int> g1;
 
-	for (int i = 1; i <= 200; i++)
+	for (int i = 1; i <= 5; i++)
 		g1.push_back(i);
-
+g1.erase(g1.begin());
 
 	cout << "Size : " << g1.size();
 	cout << "\nCapacity : " << g1.capacity();//Returns the size of the storage space currently allocated to the vector expressed as number of elements.

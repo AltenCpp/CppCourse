@@ -64,10 +64,10 @@ int main()
 	cout << endl;
 
 	// lower bound and upper bound for set s1
-	cout << "s1.lower_bound(40) : \n"
-		<< *s1.lower_bound(40) << endl;
-	cout << "s1.upper_bound(40) : \n"
-		<< *s1.upper_bound(40) << endl;
+	cout << "s1.lower_bound(1) : \n"
+		<< *s1.lower_bound(1) << endl;
+	cout << "s1.upper_bound(80) : \n"
+		<< *s1.upper_bound(80) << endl;
 
 	// lower bound and upper bound for set s2
 	cout << "s2.lower_bound(40) :\n"
