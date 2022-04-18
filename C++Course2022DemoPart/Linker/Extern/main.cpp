@@ -3,7 +3,7 @@
 using namespace std;
 extern int f1(void);
 
-int main(void)
+int main()
 {
     int x;
     x=10*f1();
